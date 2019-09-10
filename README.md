@@ -1,0 +1,1 @@
+# Nginx-config-for-Laravel-and-Wordpress-as-subdirectory
