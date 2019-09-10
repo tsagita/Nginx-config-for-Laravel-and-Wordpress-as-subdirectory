@@ -3,6 +3,7 @@
 
 Directory structure
 
+```bash
 /var/www/html/
 |-- laravel-project.com
 |   |-- app
@@ -16,4 +17,4 @@ Directory structure
 |   |-- wp-content
 |   |-- wp-includes
 |   |-- etc...
-
+```
